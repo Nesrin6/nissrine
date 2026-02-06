@@ -242,7 +242,6 @@ function initInteractions() {
     if (typingText) {
         const texts = [
             'Développeuse Full Stack Junior',
-            'Spécialiste Python & Django',
             'Développeuse Java / JEE',
             'Passionnée de Développement Web'
         ];
@@ -372,4 +371,5 @@ Bienvenue sur mon portfolio professionnel !
 Développeuse Full Stack Junior - Nissrine Ait El Haouf
 Diplômée 2025 - Université Sultan Moulay Slimane
 N'hésitez pas à me contacter pour discuter de vos opportunités.
+
 `);
